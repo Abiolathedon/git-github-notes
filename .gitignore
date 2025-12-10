@@ -1,0 +1,8 @@
+# Ignore installers and large binaries
+*.exe
+*.msi
+*.iso
+
+# Ignore Office temporary files
+~$*
+~WRL*.tmp
